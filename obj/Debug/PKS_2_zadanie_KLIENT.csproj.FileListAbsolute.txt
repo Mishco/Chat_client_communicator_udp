@@ -1,0 +1,18 @@
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\bin\Debug\PKS_2_zadanie_KLIENT.exe.config
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\bin\Debug\PKS_2_zadanie_KLIENT.exe
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\bin\Debug\PKS_2_zadanie_KLIENT.pdb
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.exe
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.pdb
+c:\users\michal\documents\visual studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Visual Studio 2012\Projects\PKS_2_zadanie\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.Form1.resources
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\bin\Debug\PKS_2_zadanie_KLIENT.exe.config
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.exe
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.pdb
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.Form1.resources
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.Properties.Resources.resources
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\obj\Debug\PKS_2_zadanie_KLIENT.csproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\bin\Debug\PKS_2_zadanie_KLIENT.exe
+C:\Users\Michal\Desktop\FIIT\4.SEMESTER 2015\PKS_PocitacoveAkomunikacneSiete\zadania\2_zadanie_PKS_Slovik_Michal\slovik_michal_2_zadanie_PKS\PKS_2_zadanie_KLIENT\bin\Debug\PKS_2_zadanie_KLIENT.pdb
